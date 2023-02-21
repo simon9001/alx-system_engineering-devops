@@ -1,2 +1,1 @@
-script that prints the absolute path name of the current working directory in a long format
-Display current directory contents, including hidden files (starting with .). Use the long format.
+Create a script that switches the current user to the user betty
